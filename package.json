@@ -1,0 +1,25 @@
+{
+  "name": "blogpost-demo-ultimate-typesafe-react-component-patterns-with-typescript-28",
+  "version": "1.0.0",
+  "description": "https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935",
+  "keywords": [
+    "typescript",
+    "patterns",
+    "react",
+    "component"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "hoist-non-react-statics": "2.5.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
